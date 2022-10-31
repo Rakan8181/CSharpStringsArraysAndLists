@@ -10,8 +10,7 @@ namespace CSharpStringsArraysAndLists
             //Examples.UsingAStringBuilder();
             //Examples.UsefulStringAndCharFunctions();
             //Examples.UsingArrays();
-            Examples.UsingLists();
-
+            Exercises.Students();
         }
 
 
